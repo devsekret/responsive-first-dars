@@ -1,0 +1,50 @@
+.sec__info {
+    background-image: url(../../img/our.png);
+    background-repeat: no-repeat;
+    width: 1111px;
+    height: 196px;
+    margin-left: 85px;
+    margin-right: 85px;
+
+}
+
+.sec__list {
+    padding-top: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sec__item {
+    text-align: center;
+}
+
+.sec__title {
+    color: #333D4B;
+    text-align: center;
+    font-family: "Fraunces";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 32px;
+    padding-top: 72px;
+    padding-bottom: 24px;
+}
+
+.sec__text {
+    width: 255px;
+    color: #333D4B;
+    text-align: center;
+    font-family: "Barlow";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.sec__tab--img {
+    display: none;
+}
+
+.sec__mob--img {
+    display: none;
+}
